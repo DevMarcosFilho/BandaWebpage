@@ -1,0 +1,54 @@
+    form {
+    display: flex;
+    align-items: center;
+    }
+  
+    input[type="search"] {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    }
+     .row{
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      margin-top: 35px;
+      }
+
+     .colunamidlle{
+      margin: auto;
+      text-align: center;
+     }
+    #partepreta{
+      background-color: black;
+      text-align: center;
+    }
+    #butao{
+      color:white;
+      background-color: red;
+    }
+    #butao1{
+      color: white;
+      background-color: blue;
+    }
+    #butao2{
+      color: beige;
+      background-color: blue;
+    }
+    #contatos{
+      text-align: center;
+    }
+
+    .footer {
+      margin-top: auto;
+    }
+    .redes-sociais{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+    #morada, #mail, #telefone{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
